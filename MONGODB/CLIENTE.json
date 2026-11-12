@@ -1,0 +1,350 @@
+[
+    {
+        "DNI": "01234567J",
+        "nombre": "Clara",
+        "apellidos": "Martín Fernández",
+        "telefono": 701234567,
+        "ciudad": "Zaragoza",
+        "tipo_piel_cabello": "piel sensible",
+        "tipo": {
+            "vip": "Descuento 10% en productos para piel sensible",
+            "premium": "Descuento 30% en toda la línea de cuidado de la piel sensible"
+        }
+    },
+    {
+        "DNI": "01234567T",
+        "nombre": "Antonio",
+        "apellidos": "Ramírez Martínez",
+        "telefono": 801234567,
+        "ciudad": "Girona",
+        "tipo_piel_cabello": "piel madura",
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    },
+    {
+        "DNI": "12345678A",
+        "nombre": "Álvaro",
+        "apellidos": "López Martín",
+        "telefono": 612345678,
+        "ciudad": "Madrid",
+        "tipo_piel_cabello": "piel grasa",
+        "tipo": {
+            "vip": "Descuento 20% en productos de piel",
+            "premium": "Descuento 40% en todos los productos premium de cuidado facial"
+        }
+    },
+    {
+        "DNI": "12345678K",
+        "nombre": "Fernando",
+        "apellidos": "García Ruiz",
+        "telefono": 712345678,
+        "ciudad": "Zaragoza",
+        "tipo_piel_cabello": null,
+        "tipo": {
+            "vip": "Oferta exclusiva en productos para cabello rizado",
+            "premium": "Acceso anticipado a lanzamientos de productos para cabello rizado"
+        }
+    },
+    {
+        "DNI": "12345678U",
+        "nombre": "Carla",
+        "apellidos": "Sánchez Jiménez",
+        "telefono": 812345678,
+        "ciudad": "Girona",
+        "tipo_piel_cabello": "cabello dañado",
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    },
+    {
+        "DNI": "23456789B",
+        "nombre": "Paula",
+        "apellidos": "Fernández García",
+        "telefono": 623456789,
+        "ciudad": "Madrid",
+        "tipo_piel_cabello": "cabello seco",
+        "tipo": {
+            "vip": "Envío gratis en todos los productos de cabello",
+            "premium": "Acceso exclusivo a nuevos productos de cabello seco"
+        }
+    },
+    {
+        "DNI": "23456789L",
+        "nombre": "Alba",
+        "apellidos": "Jiménez Pérez",
+        "telefono": 723456789,
+        "ciudad": "Bilbao",
+        "tipo_piel_cabello": "cabello rizado",
+        "tipo": {
+            "vip": "Descuento 25% en productos de cuidado de la piel",
+            "premium": "Descuento 50% en toda la gama de cuidado facial y capilar"
+        }
+    },
+    {
+        "DNI": "23456789V",
+        "nombre": "Ricardo",
+        "apellidos": "Torres Fernández",
+        "telefono": 823456789,
+        "ciudad": "Castellón",
+        "tipo_piel_cabello": "piel seca",
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    },
+    {
+        "DNI": "34567890C",
+        "nombre": "Manuel",
+        "apellidos": "González Pérez",
+        "telefono": 634567890,
+        "ciudad": "Madrid",
+        "tipo_piel_cabello": null,
+        "tipo": {
+            "vip": "Promoción exclusiva en cuidado de la piel",
+            "premium": "Descuento 50% en tratamientos para piel grasa y cabello dañado"
+        }
+    },
+    {
+        "DNI": "34567890M",
+        "nombre": "Carlos",
+        "apellidos": "Torres Rodríguez",
+        "telefono": 734567890,
+        "ciudad": "Bilbao",
+        "tipo_piel_cabello": "piel grasa",
+        "tipo": {
+            "vip": "Envío gratis en todos los productos de cabello fino",
+            "premium": "Acceso exclusivo a colecciones limitadas de cabello graso"
+        }
+    },
+    {
+        "DNI": "34567890W",
+        "nombre": "José Luis",
+        "apellidos": "Pérez Romero",
+        "telefono": 834567890,
+        "ciudad": "Castellón",
+        "tipo_piel_cabello": "cabello rizado",
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    },
+    {
+        "DNI": "45678901D",
+        "nombre": "Rosa",
+        "apellidos": "Sánchez Martín",
+        "telefono": 645678901,
+        "ciudad": "Barcelona",
+        "tipo_piel_cabello": "piel seca",
+        "tipo": {
+            "vip": "Oferta 10% en productos para piel seca",
+            "premium": "Descuento 35% en productos para piel seca y cabello dañado"
+        }
+    },
+    {
+        "DNI": "45678901N",
+        "nombre": "Isabel",
+        "apellidos": "Hernández Martínez",
+        "telefono": 745678901,
+        "ciudad": "Alicante",
+        "tipo_piel_cabello": "cabello fino",
+        "tipo": {
+            "vip": "Descuento 30% en productos para piel seca",
+            "premium": null
+        }
+    },
+    {
+        "DNI": "45678901X",
+        "nombre": "Silvia",
+        "apellidos": "Álvarez Martín",
+        "telefono": 845678901,
+        "ciudad": "Salamanca",
+        "tipo_piel_cabello": "piel normal",
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    },
+    {
+        "DNI": "56789012E",
+        "nombre": "Tomás",
+        "apellidos": "Pérez Romero",
+        "telefono": 656789012,
+        "ciudad": "Barcelona",
+        "tipo_piel_cabello": "cabello graso",
+        "tipo": {
+            "vip": "Descuento en tratamientos para cabello graso",
+            "premium": "Acceso exclusivo a colecciones limitadas de cabello graso"
+        }
+    },
+    {
+        "DNI": "56789012O",
+        "nombre": "Raúl",
+        "apellidos": "Romero González",
+        "telefono": 756789012,
+        "ciudad": "Alicante",
+        "tipo_piel_cabello": "piel seca",
+        "tipo": {
+            "vip": "Promoción especial en productos para cabello rizado",
+            "premium": null
+        }
+    },
+    {
+        "DNI": "56789012Y",
+        "nombre": "Luis Miguel",
+        "apellidos": "González Ruiz",
+        "telefono": 856789012,
+        "ciudad": "Salamanca",
+        "tipo_piel_cabello": null,
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    },
+    {
+        "DNI": "67890123F",
+        "nombre": "Julia",
+        "apellidos": "Mendoza López",
+        "telefono": 667890123,
+        "ciudad": "Valencia",
+        "tipo_piel_cabello": "piel normal",
+        "tipo": {
+            "vip": "Promoción de invierno para piel normal",
+            "premium": "Descuento 45% en tratamientos avanzados para piel normal"
+        }
+    },
+    {
+        "DNI": "67890123P",
+        "nombre": "Mónica",
+        "apellidos": "Fernández López",
+        "telefono": 767890123,
+        "ciudad": "Toledo",
+        "tipo_piel_cabello": "piel normal",
+        "tipo": {
+            "vip": "Descuento 15% en productos de cuidado capilar",
+            "premium": null
+        }
+    },
+    {
+        "DNI": "67890123Z",
+        "nombre": "Patricia",
+        "apellidos": "Martínez Díaz",
+        "telefono": 867890123,
+        "ciudad": "Badajoz",
+        "tipo_piel_cabello": "cabello graso",
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    },
+    {
+        "DNI": "78901234A",
+        "nombre": "Jorge",
+        "apellidos": "Serrano Pérez",
+        "telefono": 878901234,
+        "ciudad": "Badajoz",
+        "tipo_piel_cabello": "piel sensible",
+        "tipo": {
+            "vip": "Descuento 10% en productos para piel sensible",
+            "premium": null
+        }
+    },
+    {
+        "DNI": "78901234G",
+        "nombre": "José Antonio",
+        "apellidos": "Hernández García",
+        "telefono": 678901234,
+        "ciudad": "Valencia",
+        "tipo_piel_cabello": null,
+        "tipo": {
+            "vip": "Descuento 15% en productos para cabello dañado",
+            "premium": null
+        }
+    },
+    {
+        "DNI": "78901234Q",
+        "nombre": "Juan Carlos",
+        "apellidos": "Gutiérrez Jiménez",
+        "telefono": 778901234,
+        "ciudad": "Toledo",
+        "tipo_piel_cabello": "cabello graso",
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    },
+    {
+        "DNI": "89012345B",
+        "nombre": "Susana",
+        "apellidos": "Vidal Fernández",
+        "telefono": 889012345,
+        "ciudad": "Córdoba",
+        "tipo_piel_cabello": "cabello seco",
+        "tipo": {
+            "vip": "Cabello seco: Descuento en productos para cabello seco",
+            "premium": null
+        }
+    },
+    {
+        "DNI": "89012345H",
+        "nombre": "Sandra",
+        "apellidos": "Ramírez Díaz",
+        "telefono": 689012345,
+        "ciudad": "Sevilla",
+        "tipo_piel_cabello": "piel madura",
+        "tipo": {
+            "vip": "Descuento 30% en productos para piel seca",
+            "premium": null
+        }
+    },
+    {
+        "DNI": "89012345R",
+        "nombre": "Javier",
+        "apellidos": "Pérez Fernández",
+        "telefono": 789012345,
+        "ciudad": "Vigo",
+        "tipo_piel_cabello": "piel sensible",
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    },
+    {
+        "DNI": "90123456C",
+        "nombre": "Manuela",
+        "apellidos": "Díaz Gómez",
+        "telefono": 890123456,
+        "ciudad": "Córdoba",
+        "tipo_piel_cabello": null,
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    },
+    {
+        "DNI": "90123456I",
+        "nombre": "David",
+        "apellidos": "López Sánchez",
+        "telefono": 690123456,
+        "ciudad": "Sevilla",
+        "tipo_piel_cabello": "cabello dañado",
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    },
+    {
+        "DNI": "90123456S",
+        "nombre": "Lucía",
+        "apellidos": "López Ruiz",
+        "telefono": 790123456,
+        "ciudad": "Vigo",
+        "tipo_piel_cabello": "cabello seco",
+        "tipo": {
+            "vip": null,
+            "premium": null
+        }
+    }
+]

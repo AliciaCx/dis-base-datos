@@ -1,0 +1,651 @@
+[
+  {
+    "num_producto": "42567",
+    "nombre": "Eau de Parfum Fresh",
+    "marca": "Chanel",
+    "precio": 89.99,
+    "descripcion": "Perfume con aroma fresco y floral",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "10",
+    "kits": [
+      {
+        "cod_kit": "33",
+        "nombre_kit": "Kit Detox Facial Revitalizante"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42567-001",
+        "nombre_especial": "Eau de Parfum Fresh - Edición Limitada"
+      }
+    ]
+  },
+  {
+    "num_producto": "42572",
+    "nombre": "Eau de Parfum Sweet",
+    "marca": "Dior",
+    "precio": 95.00,
+    "descripcion": "Perfume dulce y afrutado",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "12",
+    "kits": [
+      {
+        "cod_kit": "31",
+        "nombre_kit": "Kit Maquillaje Profesional Deluxe"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42572-001",
+        "nombre_especial": "Eau de Parfum Sweet - Edición Floral"
+      }
+    ]
+  },
+  {
+    "num_producto": "42575",
+    "nombre": "Sérum Iluminador",
+    "marca": "La Roche-Posay",
+    "precio": 35.00,
+    "descripcion": "Sérum facial con vitamina C",
+    "tipo_piel_cabello": "piel sensible",
+    "cod_categoria": "30",
+    "kits": [
+      {
+        "cod_kit": "25",
+        "nombre_kit": "Kit Radiante de Cuidado Facial"
+      },
+      {
+        "cod_kit": "27",
+        "nombre_kit": "Kit Rejuvenecedor Nocturno"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42575-001",
+        "nombre_especial": "Sérum Iluminador - Vitamina C Intensiva"
+      }
+    ]
+  },
+  {
+    "num_producto": "42577",
+    "nombre": "Eau de Parfum Woody",
+    "marca": "Tom Ford",
+    "precio": 110.00,
+    "descripcion": "Perfume amaderado unisex",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "13",
+    "kits": [
+      {
+        "cod_kit": "36",
+        "nombre_kit": "Kit Perfume Floral y Crema Corporal Sedosa"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42577-001",
+        "nombre_especial": "Eau de Parfum Woody - Edición Exclusiva"
+      }
+    ]
+  },
+  {
+    "num_producto": "42580",
+    "nombre": "Crema Solar Facial",
+    "marca": "Avène",
+    "precio": 24.50,
+    "descripcion": "Crema facial hidratante SPF 50",
+    "tipo_piel_cabello": "piel sensible",
+    "cod_categoria": "29",
+    "kits": [
+      {
+        "cod_kit": "30",
+        "nombre_kit": "Kit Piel Sensible Deluxe"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42580-001",
+        "nombre_especial": "Crema Solar Facial - Protección Extra"
+      }
+    ]
+  },
+  {
+    "num_producto": "42586",
+    "nombre": "Mascarilla Capilar",
+    "marca": "Kérastase",
+    "precio": 30.00,
+    "descripcion": "Mascarilla capilar reparadora",
+    "tipo_piel_cabello": "cabello dañado",
+    "cod_categoria": "41",
+    "kits": [
+      {
+        "cod_kit": "28",
+        "nombre_kit": "Kit Cuidado Capilar Premium"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42586-001",
+        "nombre_especial": "Mascarilla Capilar - Reparación Intensiva"
+      }
+    ]
+  },
+  {
+    "num_producto": "42589",
+    "nombre": "Aceite Corporal",
+    "marca": "LOccitane",
+    "precio": 40.99,
+    "descripcion": "Aceite corporal relajante",
+    "tipo_piel_cabello": "piel seca",
+    "cod_categoria": "24",
+    "kits": [
+      {
+        "cod_kit": "29",
+        "nombre_kit": "Kit Hidratación Profunda"
+      },
+      {
+        "cod_kit": "35",
+        "nombre_kit": "Kit Perfume y Crema Hidratante de Lujo"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42589-001",
+        "nombre_especial": "Aceite Corporal - Relajación Total"
+      }
+    ]
+  },
+  {
+    "num_producto": "42590",
+    "nombre": "Crema Hidratante Rica",
+    "marca": "Vichy",
+    "precio": 20.50,
+    "descripcion": "Crema facial para piel seca",
+    "tipo_piel_cabello": "piel seca",
+    "cod_categoria": "29",
+    "kits": [
+      {
+        "cod_kit": "25",
+        "nombre_kit": "Kit Radiante de Cuidado Facial"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42590-001",
+        "nombre_especial": "Crema Hidratante Rica - Piel Seca"
+      }
+    ]
+  },
+  {
+    "num_producto": "42597",
+    "nombre": "Eau de Parfum Vanilla",
+    "marca": "Yves Saint Laurent",
+    "precio": 120.00,
+    "descripcion": "Perfume con notas de vainilla y ámbar",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "13",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42597-001",
+        "nombre_especial": "Eau de Parfum Vanilla - Edición Dulce"
+      }
+    ]
+  },
+  {
+    "num_producto": "42602",
+    "nombre": "Eau de Parfum Aqua",
+    "marca": "Calvin Klein",
+    "precio": 85.00,
+    "descripcion": "Perfume con notas acuáticas",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "10",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42602-001",
+        "nombre_especial": "Eau de Parfum Aqua - Notas Acuáticas"
+      }
+    ]
+  },
+  {
+    "num_producto": "42607",
+    "nombre": "Eau de Parfum Elegance",
+    "marca": "Prada",
+    "precio": 130.00,
+    "descripcion": "Perfume elegante y sofisticado",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "13",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42607-001",
+        "nombre_especial": "Eau de Parfum Elegance - Colección 2024"
+      }
+    ]
+  },
+  {
+    "num_producto": "42617",
+    "nombre": "Eau de Parfum Woody Leather",
+    "marca": "Tom Ford",
+    "precio": 150.00,
+    "descripcion": "Perfume con notas de madera y cuero",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "13",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42617-001",
+        "nombre_especial": "Eau de Parfum Woody Leather - Edición Premium"
+      }
+    ]
+  },
+  {
+    "num_producto": "42626",
+    "nombre": "Eau de Parfum Floral Sweet",
+    "marca": "Marc Jacobs",
+    "precio": 100.00,
+    "descripcion": "Perfume dulce con notas florales",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "12",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42626-001",
+        "nombre_especial": "Eau de Parfum Floral Sweet - Edición Especial"
+      }
+    ]
+  },
+  {
+    "num_producto": "42628",
+    "nombre": "Shampoo Fortalecedor",
+    "marca": "Nioxin",
+    "precio": 35.00,
+    "descripcion": "Shampoo anticaída",
+    "tipo_piel_cabello": "cabello fino",
+    "cod_categoria": "41",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42628-001",
+        "nombre_especial": "Shampoo Fortalecedor - Cabello Fino"
+      }
+    ]
+  },
+  {
+    "num_producto": "42632",
+    "nombre": "Sérum Revitalizante",
+    "marca": "Estée Lauder",
+    "precio": 95.00,
+    "descripcion": "Sérum para rejuvenecer la piel",
+    "tipo_piel_cabello": "piel madura",
+    "cod_categoria": "30",
+    "kits": [
+      {
+        "cod_kit": "31",
+        "nombre_kit": "Kit Rejuvenecedor Completo"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42632-001",
+        "nombre_especial": "Sérum Revitalizante - Edición Oro"
+      }
+    ]
+  },
+  {
+    "num_producto": "42634",
+    "nombre": "Eau de Parfum Citrus",
+    "marca": "Hermès",
+    "precio": 115.00,
+    "descripcion": "Perfume fresco con notas cítricas",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "10",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42634-001",
+        "nombre_especial": "Eau de Parfum Citrus - Edición Refrescante"
+      }
+    ]
+  },
+  {
+    "num_producto": "42641",
+    "nombre": "Crema Nutritiva Nocturna",
+    "marca": "Nuxe",
+    "precio": 42.00,
+    "descripcion": "Crema para nutrir la piel durante la noche",
+    "tipo_piel_cabello": "piel seca",
+    "cod_categoria": "29",
+    "kits": [
+      {
+        "cod_kit": "33",
+        "nombre_kit": "Kit Nutrición Nocturna"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42641-001",
+        "nombre_especial": "Crema Nutritiva Nocturna - Fórmula Avanzada"
+      }
+    ]
+  },
+  {
+    "num_producto": "42645",
+    "nombre": "Champú Hidratante",
+    "marca": "L'Oréal",
+    "precio": 20.00,
+    "descripcion": "Champú para cabellos secos y dañados",
+    "tipo_piel_cabello": "cabello seco",
+    "cod_categoria": "41",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42645-001",
+        "nombre_especial": "Champú Hidratante - Fórmula Rica"
+      }
+    ]
+  },
+  {
+    "num_producto": "42648",
+    "nombre": "Crema Antiedad",
+    "marca": "Olay",
+    "precio": 50.00,
+    "descripcion": "Crema facial antiedad para piel madura",
+    "tipo_piel_cabello": "piel madura",
+    "cod_categoria": "29",
+    "kits": [
+      {
+        "cod_kit": "32",
+        "nombre_kit": "Kit Antiedad Completo"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42648-001",
+        "nombre_especial": "Crema Antiedad - Fórmula Regeneradora"
+      }
+    ]
+  },
+  {
+    "num_producto": "42653",
+    "nombre": "Eau de Parfum Rose",
+    "marca": "Chloé",
+    "precio": 125.00,
+    "descripcion": "Perfume floral con notas de rosa",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "12",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42653-001",
+        "nombre_especial": "Eau de Parfum Rose - Edición Floral"
+      }
+    ]
+  },
+  {
+    "num_producto": "42660",
+    "nombre": "Crema Reparadora Intensiva",
+    "marca": "Neutrogena",
+    "precio": 30.00,
+    "descripcion": "Crema facial para piel muy seca",
+    "tipo_piel_cabello": "piel muy seca",
+    "cod_categoria": "29",
+    "kits": [
+      {
+        "cod_kit": "34",
+        "nombre_kit": "Kit Hidratación Profunda"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42660-001",
+        "nombre_especial": "Crema Reparadora Intensiva - Piel Extra Seca"
+      }
+    ]
+  },
+  {
+    "num_producto": "42663",
+    "nombre": "Eau de Parfum Spice",
+    "marca": "Yves Saint Laurent",
+    "precio": 140.00,
+    "descripcion": "Perfume cálido con notas especiadas",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "13",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42663-001",
+        "nombre_especial": "Eau de Parfum Spice - Edición Exclusiva"
+      }
+    ]
+  },
+  {
+    "num_producto": "42672",
+    "nombre": "Aceite Desmaquillante",
+    "marca": "Clinique",
+    "precio": 35.00,
+    "descripcion": "Aceite desmaquillante para piel sensible",
+    "tipo_piel_cabello": "piel sensible",
+    "cod_categoria": "29",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42672-001",
+        "nombre_especial": "Aceite Desmaquillante - Piel Sensible"
+      }
+    ]
+  },
+  {
+    "num_producto": "42681",
+    "nombre": "Crema Limpiadora Suave",
+    "marca": "CeraVe",
+    "precio": 18.00,
+    "descripcion": "Limpiador facial suave para piel sensible",
+    "tipo_piel_cabello": "piel sensible",
+    "cod_categoria": "29",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42681-001",
+        "nombre_especial": "Crema Limpiadora Suave - Fórmula Hidratante"
+      }
+    ]
+  },
+  {
+    "num_producto": "42693",
+    "nombre": "Eau de Parfum Mystique",
+    "marca": "Giorgio Armani",
+    "precio": 150.00,
+    "descripcion": "Perfume misterioso con notas de madera y flores",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "13",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42693-001",
+        "nombre_especial": "Eau de Parfum Mystique - Edición Privada"
+      }
+    ]
+  },
+  {
+    "num_producto": "42701",
+    "nombre": "Gel Hidratante Refrescante",
+    "marca": "La Roche-Posay",
+    "precio": 40.00,
+    "descripcion": "Gel hidratante para pieles sensibles",
+    "tipo_piel_cabello": "piel sensible",
+    "cod_categoria": "29",
+    "kits": [
+      {
+        "cod_kit": "35",
+        "nombre_kit": "Kit Hidratación Sensible"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42701-001",
+        "nombre_especial": "Gel Hidratante Refrescante - Fórmula Avanzada"
+      }
+    ]
+  },
+  {
+    "num_producto": "42706",
+    "nombre": "Mascarilla Capilar Reparadora",
+    "marca": "Pantene",
+    "precio": 25.00,
+    "descripcion": "Mascarilla hidratante para cabello dañado",
+    "tipo_piel_cabello": "cabello dañado",
+    "cod_categoria": "41",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42706-001",
+        "nombre_especial": "Mascarilla Capilar Reparadora - Fórmula Intensiva"
+      }
+    ]
+  },
+  {
+    "num_producto": "42711",
+    "nombre": "Aceite Facial Regenerador",
+    "marca": "Kiehl's",
+    "precio": 80.00,
+    "descripcion": "Aceite facial para regenerar y suavizar la piel",
+    "tipo_piel_cabello": "piel seca",
+    "cod_categoria": "29",
+    "kits": [
+      {
+        "cod_kit": "36",
+        "nombre_kit": "Kit Regeneración Facial"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42711-001",
+        "nombre_especial": "Aceite Facial Regenerador - Edición Limitada"
+      }
+    ]
+  },
+  {
+    "num_producto": "42715",
+    "nombre": "Crema Reparadora para Ojos",
+    "marca": "Lancôme",
+    "precio": 60.00,
+    "descripcion": "Crema para el contorno de ojos, combate signos de envejecimiento",
+    "tipo_piel_cabello": "piel madura",
+    "cod_categoria": "29",
+    "kits": [
+      {
+        "cod_kit": "37",
+        "nombre_kit": "Kit Cuidado Ojos"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42715-001",
+        "nombre_especial": "Crema Reparadora para Ojos - Fórmula Avanzada"
+      }
+    ]
+  },
+  {
+    "num_producto": "42719",
+    "nombre": "Eau de Parfum Amber",
+    "marca": "Tom Ford",
+    "precio": 170.00,
+    "descripcion": "Perfume cálido con notas ambarinas",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "13",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42719-001",
+        "nombre_especial": "Eau de Parfum Amber - Edición Privada"
+      }
+    ]
+  },
+  {
+    "num_producto": "42725",
+    "nombre": "Gel Limpiador Facial",
+    "marca": "Vichy",
+    "precio": 30.00,
+    "descripcion": "Gel limpiador para pieles sensibles",
+    "tipo_piel_cabello": "piel sensible",
+    "cod_categoria": "29",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42725-001",
+        "nombre_especial": "Gel Limpiador Facial - Fórmula Hidratante"
+      }
+    ]
+  },
+  {
+    "num_producto": "42730",
+    "nombre": "Crema Anticelulítica",
+    "marca": "Clarins",
+    "precio": 75.00,
+    "descripcion": "Crema para reducir la apariencia de la celulitis",
+    "tipo_piel_cabello": "piel normal",
+    "cod_categoria": "29",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42730-001",
+        "nombre_especial": "Crema Anticelulítica - Fórmula Intensiva"
+      }
+    ]
+  },
+  {
+    "num_producto": "42735",
+    "nombre": "Eau de Parfum Vanilla",
+    "marca": "Gucci",
+    "precio": 130.00,
+    "descripcion": "Perfume dulce con notas de vainilla",
+    "tipo_piel_cabello": null,
+    "cod_categoria": "10",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42735-001",
+        "nombre_especial": "Eau de Parfum Vanilla - Edición Exclusiva"
+      }
+    ]
+  },
+  {
+    "num_producto": "42742",
+    "nombre": "Sérum para Ojos",
+    "marca": "Shiseido",
+    "precio": 90.00,
+    "descripcion": "Sérum para reducir la hinchazón y las ojeras",
+    "tipo_piel_cabello": "piel sensible",
+    "cod_categoria": "29",
+    "kits": null,
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42742-001",
+        "nombre_especial": "Sérum para Ojos - Fórmula Anti-Ojeras"
+      }
+    ]
+  },
+  {
+    "num_producto": "42747",
+    "nombre": "Tónico Facial",
+    "marca": "Biotherm",
+    "precio": 45.00,
+    "descripcion": "Tónico para equilibrar la piel",
+    "tipo_piel_cabello": "piel normal",
+    "cod_categoria": "29",
+    "kits": [
+      {
+        "cod_kit": "38",
+        "nombre_kit": "Kit Tonificación Facial"
+      }
+    ],
+    "versiones_especiales": [
+      {
+        "num_serie": "VS42747-001",
+        "nombre_especial": "Tónico Facial - Fórmula Refrescante"
+      }
+    ]
+  }
+]
+
